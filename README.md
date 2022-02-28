@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/veronicadev/health-world-data/main/readme.jpg" alt="Logo">
-<a href="https://it.freepik.com/katemangostar" target="_blank">Image credit</a> 
+<img style="width:340px" src="https://raw.githubusercontent.com/veronicadev/health-world-data/main/readme.jpg" alt="Logo">
+<br><a href="https://it.freepik.com/katemangostar" target="_blank">Image credit</a> 
 </p>
 <h2 align="center"> Health world data</h2>
   <p align="center">
