@@ -1,0 +1,1710 @@
+{
+  "AFG": {
+    "alpha2Code": "AF",
+    "country": "Afghanistan",
+    "numCode": 4,
+    "lat": 33,
+    "lng": 65
+  },
+  "ALB": {
+    "alpha2Code": "AL",
+    "country": "Albania",
+    "numCode": 8,
+    "lat": 41,
+    "lng": 20
+  },
+  "DZA": {
+    "alpha2Code": "DZ",
+    "country": "Algeria",
+    "numCode": 12,
+    "lat": 28,
+    "lng": 3
+  },
+  "ASM": {
+    "alpha2Code": "AS",
+    "country": "American Samoa",
+    "numCode": 16,
+    "lat": -14.3333,
+    "lng": -170
+  },
+  "AND": {
+    "alpha2Code": "AD",
+    "country": "Andorra",
+    "numCode": 20,
+    "lat": 42.5,
+    "lng": 1.6
+  },
+  "AGO": {
+    "alpha2Code": "AO",
+    "country": "Angola",
+    "numCode": 24,
+    "lat": -12.5,
+    "lng": 18.5
+  },
+  "AIA": {
+    "alpha2Code": "AI",
+    "country": "Anguilla",
+    "numCode": 660,
+    "lat": 18.25,
+    "lng": -63.1667
+  },
+  "ATA": {
+    "alpha2Code": "AQ",
+    "country": "Antarctica",
+    "numCode": 10,
+    "lat": -90,
+    "lng": 0
+  },
+  "ATG": {
+    "alpha2Code": "AG",
+    "country": "Antigua and Barbuda",
+    "numCode": 28,
+    "lat": 17.05,
+    "lng": -61.8
+  },
+  "ARG": {
+    "alpha2Code": "AR",
+    "country": "Argentina",
+    "numCode": 32,
+    "lat": -34,
+    "lng": -64
+  },
+  "ARM": {
+    "alpha2Code": "AM",
+    "country": "Armenia",
+    "numCode": 51,
+    "lat": 40,
+    "lng": 45
+  },
+  "ABW": {
+    "alpha2Code": "AW",
+    "country": "Aruba",
+    "numCode": 533,
+    "lat": 12.5,
+    "lng": -69.9667
+  },
+  "AUS": {
+    "alpha2Code": "AU",
+    "country": "Australia",
+    "numCode": 36,
+    "lat": -27,
+    "lng": 133
+  },
+  "AUT": {
+    "alpha2Code": "AT",
+    "country": "Austria",
+    "numCode": 40,
+    "lat": 47.3333,
+    "lng": 13.3333
+  },
+  "AZE": {
+    "alpha2Code": "AZ",
+    "country": "Azerbaijan",
+    "numCode": 31,
+    "lat": 40.5,
+    "lng": 47.5
+  },
+  "BHS": {
+    "alpha2Code": "BS",
+    "country": "Bahamas",
+    "numCode": 44,
+    "lat": 24.25,
+    "lng": -76
+  },
+  "BHR": {
+    "alpha2Code": "BH",
+    "country": "Bahrain",
+    "numCode": 48,
+    "lat": 26,
+    "lng": 50.55
+  },
+  "BGD": {
+    "alpha2Code": "BD",
+    "country": "Bangladesh",
+    "numCode": 50,
+    "lat": 24,
+    "lng": 90
+  },
+  "BRB": {
+    "alpha2Code": "BB",
+    "country": "Barbados",
+    "numCode": 52,
+    "lat": 13.1667,
+    "lng": -59.5333
+  },
+  "BLR": {
+    "alpha2Code": "BY",
+    "country": "Belarus",
+    "numCode": 112,
+    "lat": 53,
+    "lng": 28
+  },
+  "BEL": {
+    "alpha2Code": "BE",
+    "country": "Belgium",
+    "numCode": 56,
+    "lat": 50.8333,
+    "lng": 4
+  },
+  "BLZ": {
+    "alpha2Code": "BZ",
+    "country": "Belize",
+    "numCode": 84,
+    "lat": 17.25,
+    "lng": -88.75
+  },
+  "BEN": {
+    "alpha2Code": "BJ",
+    "country": "Benin",
+    "numCode": 204,
+    "lat": 9.5,
+    "lng": 2.25
+  },
+  "BMU": {
+    "alpha2Code": "BM",
+    "country": "Bermuda",
+    "numCode": 60,
+    "lat": 32.3333,
+    "lng": -64.75
+  },
+  "BTN": {
+    "alpha2Code": "BT",
+    "country": "Bhutan",
+    "numCode": 64,
+    "lat": 27.5,
+    "lng": 90.5
+  },
+  "BOL": {
+    "alpha2Code": "BO",
+    "country": "Bolivia",
+    "numCode": 68,
+    "lat": -17,
+    "lng": -65
+  },
+  "BIH": {
+    "alpha2Code": "BA",
+    "country": "Bosnia and Herzegovina",
+    "numCode": 70,
+    "lat": 44,
+    "lng": 18
+  },
+  "BWA": {
+    "alpha2Code": "BW",
+    "country": "Botswana",
+    "numCode": 72,
+    "lat": -22,
+    "lng": 24
+  },
+  "BVT": {
+    "alpha2Code": "BV",
+    "country": "Bouvet Island",
+    "numCode": 74,
+    "lat": -54.4333,
+    "lng": 3.4
+  },
+  "BRA": {
+    "alpha2Code": "BR",
+    "country": "Brazil",
+    "numCode": 76,
+    "lat": -10,
+    "lng": -55
+  },
+  "IOT": {
+    "alpha2Code": "IO",
+    "country": "British Indian Ocean Territory",
+    "numCode": 86,
+    "lat": -6,
+    "lng": 71.5
+  },
+  "BRN": {
+    "alpha2Code": "BN",
+    "country": "Brunei",
+    "numCode": 96,
+    "lat": 4.5,
+    "lng": 114.6667
+  },
+  "BGR": {
+    "alpha2Code": "BG",
+    "country": "Bulgaria",
+    "numCode": 100,
+    "lat": 43,
+    "lng": 25
+  },
+  "BFA": {
+    "alpha2Code": "BF",
+    "country": "Burkina Faso",
+    "numCode": 854,
+    "lat": 13,
+    "lng": -2
+  },
+  "BDI": {
+    "alpha2Code": "BI",
+    "country": "Burundi",
+    "numCode": 108,
+    "lat": -3.5,
+    "lng": 30
+  },
+  "KHM": {
+    "alpha2Code": "KH",
+    "country": "Cambodia",
+    "numCode": 116,
+    "lat": 13,
+    "lng": 105
+  },
+  "CMR": {
+    "alpha2Code": "CM",
+    "country": "Cameroon",
+    "numCode": 120,
+    "lat": 6,
+    "lng": 12
+  },
+  "CAN": {
+    "alpha2Code": "CA",
+    "country": "Canada",
+    "numCode": 124,
+    "lat": 60,
+    "lng": -95
+  },
+  "CPV": {
+    "alpha2Code": "CV",
+    "country": "Cape Verde",
+    "numCode": 132,
+    "lat": 16,
+    "lng": -24
+  },
+  "CYM": {
+    "alpha2Code": "KY",
+    "country": "Cayman Islands",
+    "numCode": 136,
+    "lat": 19.5,
+    "lng": -80.5
+  },
+  "CAF": {
+    "alpha2Code": "CF",
+    "country": "Central African Republic",
+    "numCode": 140,
+    "lat": 7,
+    "lng": 21
+  },
+  "TCD": {
+    "alpha2Code": "TD",
+    "country": "Chad",
+    "numCode": 148,
+    "lat": 15,
+    "lng": 19
+  },
+  "CHL": {
+    "alpha2Code": "CL",
+    "country": "Chile",
+    "numCode": 152,
+    "lat": -30,
+    "lng": -71
+  },
+  "CHN": {
+    "alpha2Code": "CN",
+    "country": "China",
+    "numCode": 156,
+    "lat": 35,
+    "lng": 105
+  },
+  "CXR": {
+    "alpha2Code": "CX",
+    "country": "Christmas Island",
+    "numCode": 162,
+    "lat": -10.5,
+    "lng": 105.6667
+  },
+  "CCK": {
+    "alpha2Code": "CC",
+    "country": "Cocos (Keeling) Islands",
+    "numCode": 166,
+    "lat": -12.5,
+    "lng": 96.8333
+  },
+  "COL": {
+    "alpha2Code": "CO",
+    "country": "Colombia",
+    "numCode": 170,
+    "lat": 4,
+    "lng": -72
+  },
+  "COM": {
+    "alpha2Code": "KM",
+    "country": "Comoros",
+    "numCode": 174,
+    "lat": -12.1667,
+    "lng": 44.25
+  },
+  "COG": {
+    "alpha2Code": "CG",
+    "country": "Congo",
+    "numCode": 178,
+    "lat": -1,
+    "lng": 15
+  },
+  "COD": {
+    "alpha2Code": "CD",
+    "country": "Congo, the Democratic Republic of the",
+    "numCode": 180,
+    "lat": 0,
+    "lng": 25
+  },
+  "COK": {
+    "alpha2Code": "CK",
+    "country": "Cook Islands",
+    "numCode": 184,
+    "lat": -21.2333,
+    "lng": -159.7667
+  },
+  "CRI": {
+    "alpha2Code": "CR",
+    "country": "Costa Rica",
+    "numCode": 188,
+    "lat": 10,
+    "lng": -84
+  },
+  "CIV": {
+    "alpha2Code": "CI",
+    "country": "Ivory Coast",
+    "numCode": 384,
+    "lat": 8,
+    "lng": -5
+  },
+  "HRV": {
+    "alpha2Code": "HR",
+    "country": "Croatia",
+    "numCode": 191,
+    "lat": 45.1667,
+    "lng": 15.5
+  },
+  "CUB": {
+    "alpha2Code": "CU",
+    "country": "Cuba",
+    "numCode": 192,
+    "lat": 21.5,
+    "lng": -80
+  },
+  "CYP": {
+    "alpha2Code": "CY",
+    "country": "Cyprus",
+    "numCode": 196,
+    "lat": 35,
+    "lng": 33
+  },
+  "CZE": {
+    "alpha2Code": "CZ",
+    "country": "Czech Republic",
+    "numCode": 203,
+    "lat": 49.75,
+    "lng": 15.5
+  },
+  "DNK": {
+    "alpha2Code": "DK",
+    "country": "Denmark",
+    "numCode": 208,
+    "lat": 56,
+    "lng": 10
+  },
+  "DJI": {
+    "alpha2Code": "DJ",
+    "country": "Djibouti",
+    "numCode": 262,
+    "lat": 11.5,
+    "lng": 43
+  },
+  "DMA": {
+    "alpha2Code": "DM",
+    "country": "Dominica",
+    "numCode": 212,
+    "lat": 15.4167,
+    "lng": -61.3333
+  },
+  "DOM": {
+    "alpha2Code": "DO",
+    "country": "Dominican Republic",
+    "numCode": 214,
+    "lat": 19,
+    "lng": -70.6667
+  },
+  "ECU": {
+    "alpha2Code": "EC",
+    "country": "Ecuador",
+    "numCode": 218,
+    "lat": -2,
+    "lng": -77.5
+  },
+  "EGY": {
+    "alpha2Code": "EG",
+    "country": "Egypt",
+    "numCode": 818,
+    "lat": 27,
+    "lng": 30
+  },
+  "SLV": {
+    "alpha2Code": "SV",
+    "country": "El Salvador",
+    "numCode": 222,
+    "lat": 13.8333,
+    "lng": -88.9167
+  },
+  "GNQ": {
+    "alpha2Code": "GQ",
+    "country": "Equatorial Guinea",
+    "numCode": 226,
+    "lat": 2,
+    "lng": 10
+  },
+  "ERI": {
+    "alpha2Code": "ER",
+    "country": "Eritrea",
+    "numCode": 232,
+    "lat": 15,
+    "lng": 39
+  },
+  "EST": {
+    "alpha2Code": "EE",
+    "country": "Estonia",
+    "numCode": 233,
+    "lat": 59,
+    "lng": 26
+  },
+  "ETH": {
+    "alpha2Code": "ET",
+    "country": "Ethiopia",
+    "numCode": 231,
+    "lat": 8,
+    "lng": 38
+  },
+  "FLK": {
+    "alpha2Code": "FK",
+    "country": "Falkland Islands (Malvinas)",
+    "numCode": 238,
+    "lat": -51.75,
+    "lng": -59
+  },
+  "FRO": {
+    "alpha2Code": "FO",
+    "country": "Faroe Islands",
+    "numCode": 234,
+    "lat": 62,
+    "lng": -7
+  },
+  "FJI": {
+    "alpha2Code": "FJ",
+    "country": "Fiji",
+    "numCode": 242,
+    "lat": -18,
+    "lng": 175
+  },
+  "FIN": {
+    "alpha2Code": "FI",
+    "country": "Finland",
+    "numCode": 246,
+    "lat": 64,
+    "lng": 26
+  },
+  "FRA": {
+    "alpha2Code": "FR",
+    "country": "France",
+    "numCode": 250,
+    "lat": 46,
+    "lng": 2
+  },
+  "GUF": {
+    "alpha2Code": "GF",
+    "country": "French Guiana",
+    "numCode": 254,
+    "lat": 4,
+    "lng": -53
+  },
+  "PYF": {
+    "alpha2Code": "PF",
+    "country": "French Polynesia",
+    "numCode": 258,
+    "lat": -15,
+    "lng": -140
+  },
+  "ATF": {
+    "alpha2Code": "TF",
+    "country": "French Southern Territories",
+    "numCode": 260,
+    "lat": -43,
+    "lng": 67
+  },
+  "GAB": {
+    "alpha2Code": "GA",
+    "country": "Gabon",
+    "numCode": 266,
+    "lat": -1,
+    "lng": 11.75
+  },
+  "GMB": {
+    "alpha2Code": "GM",
+    "country": "Gambia",
+    "numCode": 270,
+    "lat": 13.4667,
+    "lng": -16.5667
+  },
+  "GEO": {
+    "alpha2Code": "GE",
+    "country": "Georgia",
+    "numCode": 268,
+    "lat": 42,
+    "lng": 43.5
+  },
+  "DEU": {
+    "alpha2Code": "DE",
+    "country": "Germany",
+    "numCode": 276,
+    "lat": 51,
+    "lng": 9
+  },
+  "GHA": {
+    "alpha2Code": "GH",
+    "country": "Ghana",
+    "numCode": 288,
+    "lat": 8,
+    "lng": -2
+  },
+  "GIB": {
+    "alpha2Code": "GI",
+    "country": "Gibraltar",
+    "numCode": 292,
+    "lat": 36.1833,
+    "lng": -5.3667
+  },
+  "GRC": {
+    "alpha2Code": "GR",
+    "country": "Greece",
+    "numCode": 300,
+    "lat": 39,
+    "lng": 22
+  },
+  "GRL": {
+    "alpha2Code": "GL",
+    "country": "Greenland",
+    "numCode": 304,
+    "lat": 72,
+    "lng": -40
+  },
+  "GRD": {
+    "alpha2Code": "GD",
+    "country": "Grenada",
+    "numCode": 308,
+    "lat": 12.1167,
+    "lng": -61.6667
+  },
+  "GLP": {
+    "alpha2Code": "GP",
+    "country": "Guadeloupe",
+    "numCode": 312,
+    "lat": 16.25,
+    "lng": -61.5833
+  },
+  "GUM": {
+    "alpha2Code": "GU",
+    "country": "Guam",
+    "numCode": 316,
+    "lat": 13.4667,
+    "lng": 144.7833
+  },
+  "GTM": {
+    "alpha2Code": "GT",
+    "country": "Guatemala",
+    "numCode": 320,
+    "lat": 15.5,
+    "lng": -90.25
+  },
+  "GGY": {
+    "alpha2Code": "GG",
+    "country": "Guernsey",
+    "numCode": 831,
+    "lat": 49.5,
+    "lng": -2.56
+  },
+  "GIN": {
+    "alpha2Code": "GN",
+    "country": "Guinea",
+    "numCode": 324,
+    "lat": 11,
+    "lng": -10
+  },
+  "GNB": {
+    "alpha2Code": "GW",
+    "country": "Guinea-Bissau",
+    "numCode": 624,
+    "lat": 12,
+    "lng": -15
+  },
+  "GUY": {
+    "alpha2Code": "GY",
+    "country": "Guyana",
+    "numCode": 328,
+    "lat": 5,
+    "lng": -59
+  },
+  "HTI": {
+    "alpha2Code": "HT",
+    "country": "Haiti",
+    "numCode": 332,
+    "lat": 19,
+    "lng": -72.4167
+  },
+  "HMD": {
+    "alpha2Code": "HM",
+    "country": "Heard Island and McDonald Islands",
+    "numCode": 334,
+    "lat": -53.1,
+    "lng": 72.5167
+  },
+  "VAT": {
+    "alpha2Code": "VA",
+    "country": "Holy See (Vatican City State)",
+    "numCode": 336,
+    "lat": 41.9,
+    "lng": 12.45
+  },
+  "HND": {
+    "alpha2Code": "HN",
+    "country": "Honduras",
+    "numCode": 340,
+    "lat": 15,
+    "lng": -86.5
+  },
+  "HKG": {
+    "alpha2Code": "HK",
+    "country": "Hong Kong",
+    "numCode": 344,
+    "lat": 22.25,
+    "lng": 114.1667
+  },
+  "HUN": {
+    "alpha2Code": "HU",
+    "country": "Hungary",
+    "numCode": 348,
+    "lat": 47,
+    "lng": 20
+  },
+  "ISL": {
+    "alpha2Code": "IS",
+    "country": "Iceland",
+    "numCode": 352,
+    "lat": 65,
+    "lng": -18
+  },
+  "IND": {
+    "alpha2Code": "IN",
+    "country": "India",
+    "numCode": 356,
+    "lat": 20,
+    "lng": 77
+  },
+  "IDN": {
+    "alpha2Code": "ID",
+    "country": "Indonesia",
+    "numCode": 360,
+    "lat": -5,
+    "lng": 120
+  },
+  "IRN": {
+    "alpha2Code": "IR",
+    "country": "Iran, Islamic Republic of",
+    "numCode": 364,
+    "lat": 32,
+    "lng": 53
+  },
+  "IRQ": {
+    "alpha2Code": "IQ",
+    "country": "Iraq",
+    "numCode": 368,
+    "lat": 33,
+    "lng": 44
+  },
+  "IRL": {
+    "alpha2Code": "IE",
+    "country": "Ireland",
+    "numCode": 372,
+    "lat": 53,
+    "lng": -8
+  },
+  "IMN": {
+    "alpha2Code": "IM",
+    "country": "Isle of Man",
+    "numCode": 833,
+    "lat": 54.23,
+    "lng": -4.55
+  },
+  "ISR": {
+    "alpha2Code": "IL",
+    "country": "Israel",
+    "numCode": 376,
+    "lat": 31.5,
+    "lng": 34.75
+  },
+  "ITA": {
+    "alpha2Code": "IT",
+    "country": "Italy",
+    "numCode": 380,
+    "lat": 42.8333,
+    "lng": 12.8333
+  },
+  "JAM": {
+    "alpha2Code": "JM",
+    "country": "Jamaica",
+    "numCode": 388,
+    "lat": 18.25,
+    "lng": -77.5
+  },
+  "JPN": {
+    "alpha2Code": "JP",
+    "country": "Japan",
+    "numCode": 392,
+    "lat": 36,
+    "lng": 138
+  },
+  "JEY": {
+    "alpha2Code": "JE",
+    "country": "Jersey",
+    "numCode": 832,
+    "lat": 49.21,
+    "lng": -2.13
+  },
+  "JOR": {
+    "alpha2Code": "JO",
+    "country": "Jordan",
+    "numCode": 400,
+    "lat": 31,
+    "lng": 36
+  },
+  "KAZ": {
+    "alpha2Code": "KZ",
+    "country": "Kazakhstan",
+    "numCode": 398,
+    "lat": 48,
+    "lng": 68
+  },
+  "KEN": {
+    "alpha2Code": "KE",
+    "country": "Kenya",
+    "numCode": 404,
+    "lat": 1,
+    "lng": 38
+  },
+  "KIR": {
+    "alpha2Code": "KI",
+    "country": "Kiribati",
+    "numCode": 296,
+    "lat": 1.4167,
+    "lng": 173
+  },
+  "PRK": {
+    "alpha2Code": "KP",
+    "country": "Korea, Democratic People's Republic of",
+    "numCode": 408,
+    "lat": 40,
+    "lng": 127
+  },
+  "KOR": {
+    "alpha2Code": "KR",
+    "country": "South Korea",
+    "numCode": 410,
+    "lat": 37,
+    "lng": 127.5
+  },
+  "KWT": {
+    "alpha2Code": "KW",
+    "country": "Kuwait",
+    "numCode": 414,
+    "lat": 29.3375,
+    "lng": 47.6581
+  },
+  "KGZ": {
+    "alpha2Code": "KG",
+    "country": "Kyrgyzstan",
+    "numCode": 417,
+    "lat": 41,
+    "lng": 75
+  },
+  "LAO": {
+    "alpha2Code": "LA",
+    "country": "Lao People's Democratic Republic",
+    "numCode": 418,
+    "lat": 18,
+    "lng": 105
+  },
+  "LVA": {
+    "alpha2Code": "LV",
+    "country": "Latvia",
+    "numCode": 428,
+    "lat": 57,
+    "lng": 25
+  },
+  "LBN": {
+    "alpha2Code": "LB",
+    "country": "Lebanon",
+    "numCode": 422,
+    "lat": 33.8333,
+    "lng": 35.8333
+  },
+  "LSO": {
+    "alpha2Code": "LS",
+    "country": "Lesotho",
+    "numCode": 426,
+    "lat": -29.5,
+    "lng": 28.5
+  },
+  "LBR": {
+    "alpha2Code": "LR",
+    "country": "Liberia",
+    "numCode": 430,
+    "lat": 6.5,
+    "lng": -9.5
+  },
+  "LBY": {
+    "alpha2Code": "LY",
+    "country": "Libya",
+    "numCode": 434,
+    "lat": 25,
+    "lng": 17
+  },
+  "LIE": {
+    "alpha2Code": "LI",
+    "country": "Liechtenstein",
+    "numCode": 438,
+    "lat": 47.1667,
+    "lng": 9.5333
+  },
+  "LTU": {
+    "alpha2Code": "LT",
+    "country": "Lithuania",
+    "numCode": 440,
+    "lat": 56,
+    "lng": 24
+  },
+  "LUX": {
+    "alpha2Code": "LU",
+    "country": "Luxembourg",
+    "numCode": 442,
+    "lat": 49.75,
+    "lng": 6.1667
+  },
+  "MAC": {
+    "alpha2Code": "MO",
+    "country": "Macao",
+    "numCode": 446,
+    "lat": 22.1667,
+    "lng": 113.55
+  },
+  "MKD": {
+    "alpha2Code": "MK",
+    "country": "Macedonia, the former Yugoslav Republic of",
+    "numCode": 807,
+    "lat": 41.8333,
+    "lng": 22
+  },
+  "MDG": {
+    "alpha2Code": "MG",
+    "country": "Madagascar",
+    "numCode": 450,
+    "lat": -20,
+    "lng": 47
+  },
+  "MWI": {
+    "alpha2Code": "MW",
+    "country": "Malawi",
+    "numCode": 454,
+    "lat": -13.5,
+    "lng": 34
+  },
+  "MYS": {
+    "alpha2Code": "MY",
+    "country": "Malaysia",
+    "numCode": 458,
+    "lat": 2.5,
+    "lng": 112.5
+  },
+  "MDV": {
+    "alpha2Code": "MV",
+    "country": "Maldives",
+    "numCode": 462,
+    "lat": 3.25,
+    "lng": 73
+  },
+  "MLI": {
+    "alpha2Code": "ML",
+    "country": "Mali",
+    "numCode": 466,
+    "lat": 17,
+    "lng": -4
+  },
+  "MLT": {
+    "alpha2Code": "MT",
+    "country": "Malta",
+    "numCode": 470,
+    "lat": 35.8333,
+    "lng": 14.5833
+  },
+  "MHL": {
+    "alpha2Code": "MH",
+    "country": "Marshall Islands",
+    "numCode": 584,
+    "lat": 9,
+    "lng": 168
+  },
+  "MTQ": {
+    "alpha2Code": "MQ",
+    "country": "Martinique",
+    "numCode": 474,
+    "lat": 14.6667,
+    "lng": -61
+  },
+  "MRT": {
+    "alpha2Code": "MR",
+    "country": "Mauritania",
+    "numCode": 478,
+    "lat": 20,
+    "lng": -12
+  },
+  "MUS": {
+    "alpha2Code": "MU",
+    "country": "Mauritius",
+    "numCode": 480,
+    "lat": -20.2833,
+    "lng": 57.55
+  },
+  "MYT": {
+    "alpha2Code": "YT",
+    "country": "Mayotte",
+    "numCode": 175,
+    "lat": -12.8333,
+    "lng": 45.1667
+  },
+  "MEX": {
+    "alpha2Code": "MX",
+    "country": "Mexico",
+    "numCode": 484,
+    "lat": 23,
+    "lng": -102
+  },
+  "FSM": {
+    "alpha2Code": "FM",
+    "country": "Micronesia, Federated States of",
+    "numCode": 583,
+    "lat": 6.9167,
+    "lng": 158.25
+  },
+  "MDA": {
+    "alpha2Code": "MD",
+    "country": "Moldova, Republic of",
+    "numCode": 498,
+    "lat": 47,
+    "lng": 29
+  },
+  "MCO": {
+    "alpha2Code": "MC",
+    "country": "Monaco",
+    "numCode": 492,
+    "lat": 43.7333,
+    "lng": 7.4
+  },
+  "MNG": {
+    "alpha2Code": "MN",
+    "country": "Mongolia",
+    "numCode": 496,
+    "lat": 46,
+    "lng": 105
+  },
+  "MNE": {
+    "alpha2Code": "ME",
+    "country": "Montenegro",
+    "numCode": 499,
+    "lat": 42,
+    "lng": 19
+  },
+  "MSR": {
+    "alpha2Code": "MS",
+    "country": "Montserrat",
+    "numCode": 500,
+    "lat": 16.75,
+    "lng": -62.2
+  },
+  "MAR": {
+    "alpha2Code": "MA",
+    "country": "Morocco",
+    "numCode": 504,
+    "lat": 32,
+    "lng": -5
+  },
+  "MOZ": {
+    "alpha2Code": "MZ",
+    "country": "Mozambique",
+    "numCode": 508,
+    "lat": -18.25,
+    "lng": 35
+  },
+  "MMR": {
+    "alpha2Code": "MM",
+    "country": "Burma",
+    "numCode": 104,
+    "lat": 22,
+    "lng": 98
+  },
+  "NAM": {
+    "alpha2Code": "NA",
+    "country": "Namibia",
+    "numCode": 516,
+    "lat": -22,
+    "lng": 17
+  },
+  "NRU": {
+    "alpha2Code": "NR",
+    "country": "Nauru",
+    "numCode": 520,
+    "lat": -0.5333,
+    "lng": 166.9167
+  },
+  "NPL": {
+    "alpha2Code": "NP",
+    "country": "Nepal",
+    "numCode": 524,
+    "lat": 28,
+    "lng": 84
+  },
+  "NLD": {
+    "alpha2Code": "NL",
+    "country": "Netherlands",
+    "numCode": 528,
+    "lat": 52.5,
+    "lng": 5.75
+  },
+  "ANT": {
+    "alpha2Code": "AN",
+    "country": "Netherlands Antilles",
+    "numCode": 530,
+    "lat": 12.25,
+    "lng": -68.75
+  },
+  "NCL": {
+    "alpha2Code": "NC",
+    "country": "New Caledonia",
+    "numCode": 540,
+    "lat": -21.5,
+    "lng": 165.5
+  },
+  "NZL": {
+    "alpha2Code": "NZ",
+    "country": "New Zealand",
+    "numCode": 554,
+    "lat": -41,
+    "lng": 174
+  },
+  "NIC": {
+    "alpha2Code": "NI",
+    "country": "Nicaragua",
+    "numCode": 558,
+    "lat": 13,
+    "lng": -85
+  },
+  "NER": {
+    "alpha2Code": "NE",
+    "country": "Niger",
+    "numCode": 562,
+    "lat": 16,
+    "lng": 8
+  },
+  "NGA": {
+    "alpha2Code": "NG",
+    "country": "Nigeria",
+    "numCode": 566,
+    "lat": 10,
+    "lng": 8
+  },
+  "NIU": {
+    "alpha2Code": "NU",
+    "country": "Niue",
+    "numCode": 570,
+    "lat": -19.0333,
+    "lng": -169.8667
+  },
+  "NFK": {
+    "alpha2Code": "NF",
+    "country": "Norfolk Island",
+    "numCode": 574,
+    "lat": -29.0333,
+    "lng": 167.95
+  },
+  "MNP": {
+    "alpha2Code": "MP",
+    "country": "Northern Mariana Islands",
+    "numCode": 580,
+    "lat": 15.2,
+    "lng": 145.75
+  },
+  "NOR": {
+    "alpha2Code": "NO",
+    "country": "Norway",
+    "numCode": 578,
+    "lat": 62,
+    "lng": 10
+  },
+  "OMN": {
+    "alpha2Code": "OM",
+    "country": "Oman",
+    "numCode": 512,
+    "lat": 21,
+    "lng": 57
+  },
+  "PAK": {
+    "alpha2Code": "PK",
+    "country": "Pakistan",
+    "numCode": 586,
+    "lat": 30,
+    "lng": 70
+  },
+  "PLW": {
+    "alpha2Code": "PW",
+    "country": "Palau",
+    "numCode": 585,
+    "lat": 7.5,
+    "lng": 134.5
+  },
+  "PSE": {
+    "alpha2Code": "PS",
+    "country": "Palestinian Territory, Occupied",
+    "numCode": 275,
+    "lat": 32,
+    "lng": 35.25
+  },
+  "PAN": {
+    "alpha2Code": "PA",
+    "country": "Panama",
+    "numCode": 591,
+    "lat": 9,
+    "lng": -80
+  },
+  "PNG": {
+    "alpha2Code": "PG",
+    "country": "Papua New Guinea",
+    "numCode": 598,
+    "lat": -6,
+    "lng": 147
+  },
+  "PRY": {
+    "alpha2Code": "PY",
+    "country": "Paraguay",
+    "numCode": 600,
+    "lat": -23,
+    "lng": -58
+  },
+  "PER": {
+    "alpha2Code": "PE",
+    "country": "Peru",
+    "numCode": 604,
+    "lat": -10,
+    "lng": -76
+  },
+  "PHL": {
+    "alpha2Code": "PH",
+    "country": "Philippines",
+    "numCode": 608,
+    "lat": 13,
+    "lng": 122
+  },
+  "PCN": {
+    "alpha2Code": "PN",
+    "country": "Pitcairn",
+    "numCode": 612,
+    "lat": -24.7,
+    "lng": -127.4
+  },
+  "POL": {
+    "alpha2Code": "PL",
+    "country": "Poland",
+    "numCode": 616,
+    "lat": 52,
+    "lng": 20
+  },
+  "PRT": {
+    "alpha2Code": "PT",
+    "country": "Portugal",
+    "numCode": 620,
+    "lat": 39.5,
+    "lng": -8
+  },
+  "PRI": {
+    "alpha2Code": "PR",
+    "country": "Puerto Rico",
+    "numCode": 630,
+    "lat": 18.25,
+    "lng": -66.5
+  },
+  "QAT": {
+    "alpha2Code": "QA",
+    "country": "Qatar",
+    "numCode": 634,
+    "lat": 25.5,
+    "lng": 51.25
+  },
+  "REU": {
+    "alpha2Code": "RE",
+    "country": "Réunion",
+    "numCode": 638,
+    "lat": -21.1,
+    "lng": 55.6
+  },
+  "ROU": {
+    "alpha2Code": "RO",
+    "country": "Romania",
+    "numCode": 642,
+    "lat": 46,
+    "lng": 25
+  },
+  "RUS": {
+    "alpha2Code": "RU",
+    "country": "Russia",
+    "numCode": 643,
+    "lat": 60,
+    "lng": 100
+  },
+  "RWA": {
+    "alpha2Code": "RW",
+    "country": "Rwanda",
+    "numCode": 646,
+    "lat": -2,
+    "lng": 30
+  },
+  "SHN": {
+    "alpha2Code": "SH",
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "numCode": 654,
+    "lat": -15.9333,
+    "lng": -5.7
+  },
+  "KNA": {
+    "alpha2Code": "KN",
+    "country": "Saint Kitts and Nevis",
+    "numCode": 659,
+    "lat": 17.3333,
+    "lng": -62.75
+  },
+  "LCA": {
+    "alpha2Code": "LC",
+    "country": "Saint Lucia",
+    "numCode": 662,
+    "lat": 13.8833,
+    "lng": -61.1333
+  },
+  "SPM": {
+    "alpha2Code": "PM",
+    "country": "Saint Pierre and Miquelon",
+    "numCode": 666,
+    "lat": 46.8333,
+    "lng": -56.3333
+  },
+  "VCT": {
+    "alpha2Code": "VC",
+    "country": "St. Vincent and the Grenadines",
+    "numCode": 670,
+    "lat": 13.25,
+    "lng": -61.2
+  },
+  "WSM": {
+    "alpha2Code": "WS",
+    "country": "Samoa",
+    "numCode": 882,
+    "lat": -13.5833,
+    "lng": -172.3333
+  },
+  "SMR": {
+    "alpha2Code": "SM",
+    "country": "San Marino",
+    "numCode": 674,
+    "lat": 43.7667,
+    "lng": 12.4167
+  },
+  "STP": {
+    "alpha2Code": "ST",
+    "country": "Sao Tome and Principe",
+    "numCode": 678,
+    "lat": 1,
+    "lng": 7
+  },
+  "SAU": {
+    "alpha2Code": "SA",
+    "country": "Saudi Arabia",
+    "numCode": 682,
+    "lat": 25,
+    "lng": 45
+  },
+  "SEN": {
+    "alpha2Code": "SN",
+    "country": "Senegal",
+    "numCode": 686,
+    "lat": 14,
+    "lng": -14
+  },
+  "SRB": {
+    "alpha2Code": "RS",
+    "country": "Serbia",
+    "numCode": 688,
+    "lat": 44,
+    "lng": 21
+  },
+  "SYC": {
+    "alpha2Code": "SC",
+    "country": "Seychelles",
+    "numCode": 690,
+    "lat": -4.5833,
+    "lng": 55.6667
+  },
+  "SLE": {
+    "alpha2Code": "SL",
+    "country": "Sierra Leone",
+    "numCode": 694,
+    "lat": 8.5,
+    "lng": -11.5
+  },
+  "SGP": {
+    "alpha2Code": "SG",
+    "country": "Singapore",
+    "numCode": 702,
+    "lat": 1.3667,
+    "lng": 103.8
+  },
+  "SVK": {
+    "alpha2Code": "SK",
+    "country": "Slovakia",
+    "numCode": 703,
+    "lat": 48.6667,
+    "lng": 19.5
+  },
+  "SVN": {
+    "alpha2Code": "SI",
+    "country": "Slovenia",
+    "numCode": 705,
+    "lat": 46,
+    "lng": 15
+  },
+  "SLB": {
+    "alpha2Code": "SB",
+    "country": "Solomon Islands",
+    "numCode": 90,
+    "lat": -8,
+    "lng": 159
+  },
+  "SOM": {
+    "alpha2Code": "SO",
+    "country": "Somalia",
+    "numCode": 706,
+    "lat": 10,
+    "lng": 49
+  },
+  "ZAF": {
+    "alpha2Code": "ZA",
+    "country": "South Africa",
+    "numCode": 710,
+    "lat": -29,
+    "lng": 24
+  },
+  "SGS": {
+    "alpha2Code": "GS",
+    "country": "South Georgia and the South Sandwich Islands",
+    "numCode": 239,
+    "lat": -54.5,
+    "lng": -37
+  },
+  "SSD": {
+    "alpha2Code": "SS",
+    "country": "South Sudan",
+    "numCode": 728,
+    "lat": 8,
+    "lng": 30
+  },
+  "ESP": {
+    "alpha2Code": "ES",
+    "country": "Spain",
+    "numCode": 724,
+    "lat": 40,
+    "lng": -4
+  },
+  "LKA": {
+    "alpha2Code": "LK",
+    "country": "Sri Lanka",
+    "numCode": 144,
+    "lat": 7,
+    "lng": 81
+  },
+  "SDN": {
+    "alpha2Code": "SD",
+    "country": "Sudan",
+    "numCode": 736,
+    "lat": 15,
+    "lng": 30
+  },
+  "SUR": {
+    "alpha2Code": "SR",
+    "country": "Suriname",
+    "numCode": 740,
+    "lat": 4,
+    "lng": -56
+  },
+  "SJM": {
+    "alpha2Code": "SJ",
+    "country": "Svalbard and Jan Mayen",
+    "numCode": 744,
+    "lat": 78,
+    "lng": 20
+  },
+  "SWZ": {
+    "alpha2Code": "SZ",
+    "country": "Swaziland",
+    "numCode": 748,
+    "lat": -26.5,
+    "lng": 31.5
+  },
+  "SWE": {
+    "alpha2Code": "SE",
+    "country": "Sweden",
+    "numCode": 752,
+    "lat": 62,
+    "lng": 15
+  },
+  "CHE": {
+    "alpha2Code": "CH",
+    "country": "Switzerland",
+    "numCode": 756,
+    "lat": 47,
+    "lng": 8
+  },
+  "SYR": {
+    "alpha2Code": "SY",
+    "country": "Syrian Arab Republic",
+    "numCode": 760,
+    "lat": 35,
+    "lng": 38
+  },
+  "TWN": {
+    "alpha2Code": "TW",
+    "country": "Taiwan",
+    "numCode": 158,
+    "lat": 23.5,
+    "lng": 121
+  },
+  "TJK": {
+    "alpha2Code": "TJ",
+    "country": "Tajikistan",
+    "numCode": 762,
+    "lat": 39,
+    "lng": 71
+  },
+  "TZA": {
+    "alpha2Code": "TZ",
+    "country": "Tanzania, United Republic of",
+    "numCode": 834,
+    "lat": -6,
+    "lng": 35
+  },
+  "THA": {
+    "alpha2Code": "TH",
+    "country": "Thailand",
+    "numCode": 764,
+    "lat": 15,
+    "lng": 100
+  },
+  "TLS": {
+    "alpha2Code": "TL",
+    "country": "Timor-Leste",
+    "numCode": 626,
+    "lat": -8.55,
+    "lng": 125.5167
+  },
+  "TGO": {
+    "alpha2Code": "TG",
+    "country": "Togo",
+    "numCode": 768,
+    "lat": 8,
+    "lng": 1.1667
+  },
+  "TKL": {
+    "alpha2Code": "TK",
+    "country": "Tokelau",
+    "numCode": 772,
+    "lat": -9,
+    "lng": -172
+  },
+  "TON": {
+    "alpha2Code": "TO",
+    "country": "Tonga",
+    "numCode": 776,
+    "lat": -20,
+    "lng": -175
+  },
+  "TTO": {
+    "alpha2Code": "TT",
+    "country": "Trinidad and Tobago",
+    "numCode": 780,
+    "lat": 11,
+    "lng": -61
+  },
+  "TUN": {
+    "alpha2Code": "TN",
+    "country": "Tunisia",
+    "numCode": 788,
+    "lat": 34,
+    "lng": 9
+  },
+  "TUR": {
+    "alpha2Code": "TR",
+    "country": "Turkey",
+    "numCode": 792,
+    "lat": 39,
+    "lng": 35
+  },
+  "TKM": {
+    "alpha2Code": "TM",
+    "country": "Turkmenistan",
+    "numCode": 795,
+    "lat": 40,
+    "lng": 60
+  },
+  "TCA": {
+    "alpha2Code": "TC",
+    "country": "Turks and Caicos Islands",
+    "numCode": 796,
+    "lat": 21.75,
+    "lng": -71.5833
+  },
+  "TUV": {
+    "alpha2Code": "TV",
+    "country": "Tuvalu",
+    "numCode": 798,
+    "lat": -8,
+    "lng": 178
+  },
+  "UGA": {
+    "alpha2Code": "UG",
+    "country": "Uganda",
+    "numCode": 800,
+    "lat": 1,
+    "lng": 32
+  },
+  "UKR": {
+    "alpha2Code": "UA",
+    "country": "Ukraine",
+    "numCode": 804,
+    "lat": 49,
+    "lng": 32
+  },
+  "ARE": {
+    "alpha2Code": "AE",
+    "country": "United Arab Emirates",
+    "numCode": 784,
+    "lat": 24,
+    "lng": 54
+  },
+  "GBR": {
+    "alpha2Code": "GB",
+    "country": "United Kingdom",
+    "numCode": 826,
+    "lat": 54,
+    "lng": -2
+  },
+  "USA": {
+    "alpha2Code": "US",
+    "country": "United States",
+    "numCode": 840,
+    "lat": 38,
+    "lng": -97
+  },
+  "UMI": {
+    "alpha2Code": "UM",
+    "country": "United States Minor Outlying Islands",
+    "numCode": 581,
+    "lat": 19.2833,
+    "lng": 166.6
+  },
+  "URY": {
+    "alpha2Code": "UY",
+    "country": "Uruguay",
+    "numCode": 858,
+    "lat": -33,
+    "lng": -56
+  },
+  "UZB": {
+    "alpha2Code": "UZ",
+    "country": "Uzbekistan",
+    "numCode": 860,
+    "lat": 41,
+    "lng": 64
+  },
+  "VUT": {
+    "alpha2Code": "VU",
+    "country": "Vanuatu",
+    "numCode": 548,
+    "lat": -16,
+    "lng": 167
+  },
+  "VEN": {
+    "alpha2Code": "VE",
+    "country": "Venezuela",
+    "numCode": 862,
+    "lat": 8,
+    "lng": -66
+  },
+  "VNM": {
+    "alpha2Code": "VN",
+    "country": "Vietnam",
+    "numCode": 704,
+    "lat": 16,
+    "lng": 106
+  },
+  "VGB": {
+    "alpha2Code": "VG",
+    "country": "Virgin Islands, British",
+    "numCode": 92,
+    "lat": 18.5,
+    "lng": -64.5
+  },
+  "VIR": {
+    "alpha2Code": "VI",
+    "country": "Virgin Islands, U.S.",
+    "numCode": 850,
+    "lat": 18.3333,
+    "lng": -64.8333
+  },
+  "WLF": {
+    "alpha2Code": "WF",
+    "country": "Wallis and Futuna",
+    "numCode": 876,
+    "lat": -13.3,
+    "lng": -176.2
+  },
+  "ESH": {
+    "alpha2Code": "EH",
+    "country": "Western Sahara",
+    "numCode": 732,
+    "lat": 24.5,
+    "lng": -13
+  },
+  "YEM": {
+    "alpha2Code": "YE",
+    "country": "Yemen",
+    "numCode": 887,
+    "lat": 15,
+    "lng": 48
+  },
+  "ZMB": {
+    "alpha2Code": "ZM",
+    "country": "Zambia",
+    "numCode": 894,
+    "lat": -15,
+    "lng": 30
+  },
+  "ZWE": {
+    "alpha2Code": "ZW",
+    "country": "Zimbabwe",
+    "numCode": 716,
+    "lat": -20,
+    "lng": 30
+  }
+}
