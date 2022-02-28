@@ -4,7 +4,7 @@
 </p>
 <h2 align="center"> Health world data</h2>
   <p align="center">
-    Collection of open source health world data used in the Digital Earth Health. 
+    Collection of open source health world data used in the Digital Health Earth. 
     <br />
     <a href="https://github.com/veronicadev/health-world-data"><strong>Explore the docs »</strong></a>
     <br />
@@ -27,7 +27,7 @@
  
 ## About The Project
 
-The purpose of this repository is to collect all the data needed for the Digital Health Earth [Digital Earth Health](https://github.com/veronicadev/digital-earth). Most of the health data is provided by the Organization for Economic Co-operation and Development website.
+The purpose of this repository is to collect all the data needed for the [Digital Health Earth](https://github.com/veronicadev/digital-earth). Most of the health data is provided by the Organization for Economic Co-operation and Development website.
 
 
 ## Data format
