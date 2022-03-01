@@ -1,0 +1,1102 @@
+[
+  {
+    "LOCATION": "AUS",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.68,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "AUS",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.75,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "AUS",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.83,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "AUT",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 5.18,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "AUT",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 5.24,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "AUT",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 5.32,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "AUT",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 5.36,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "BEL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.08,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "BEL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.13,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "BEL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.16,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CAN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.73,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CAN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.78,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CAN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.78,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CAN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 2.8,
+    "Flag Codes": "P"
+  },
+  {
+    "LOCATION": "CZE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.04,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CZE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.07,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "DNK",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.11,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "DNK",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.19,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "FRA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.35,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "FRA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.34,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "FRA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.36,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "DEU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.25,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "DEU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.31,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "DEU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.39,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "DEU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 4.47,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "HUN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.32,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "HUN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.38,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "HUN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.49,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ISL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.87,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ISL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.89,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ISL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.89,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IRL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.26,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IRL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.28,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IRL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.32,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IRL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 3.47,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ITA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.99,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ITA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.98,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ITA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.05,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ITA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 4,
+    "Flag Codes": "P"
+  },
+  {
+    "LOCATION": "JPN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.49,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "KOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.35,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "KOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.39,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "KOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.46,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "LUX",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.98,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "MEX",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.4,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "MEX",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.44,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "MEX",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.44,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "NZL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.25,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "NZL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.31,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "NZL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.38,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "NZL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 3.43,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "NOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.73,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "NOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.86,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "NOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.97,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "NOR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 5.1,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "POL",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.38,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SVK",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.42,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SVK",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.52,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SVK",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.57,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ESP",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.88,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ESP",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.02,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ESP",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.4,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SWE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.27,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SWE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.32,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CHE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.3,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CHE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.34,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CHE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.35,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CHE",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 4.41,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "TUR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 1.87,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "TUR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 1.88,
+    "Flag Codes": "B"
+  },
+  {
+    "LOCATION": "TUR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 1.95,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "GBR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.81,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "GBR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.84,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "GBR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.95,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "GBR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2020,
+    "Value": 3.03,
+    "Flag Codes": "E"
+  },
+  {
+    "LOCATION": "USA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.61,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "USA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.61,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "USA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.64,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "BRA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 2.18,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "BRA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.32,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "CHN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 1.99,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "CHN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 2.11,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "CHN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 2.24,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "EST",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.47,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "EST",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.48,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "EST",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.47,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IND",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 0.78,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "IND",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 0.85,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "IND",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 0.93,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "IDN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 0.38,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IDN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 0.43,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "IDN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 0.47,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ISR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.14,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ISR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.22,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ISR",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.29,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "RUS",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.04,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "RUS",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.08,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "RUS",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.16,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SVN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.1,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SVN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.18,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "SVN",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.26,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "ZAF",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 0.78,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "ZAF",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 0.79,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "ZAF",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 0.79,
+    "Flag Codes": "D"
+  },
+  {
+    "LOCATION": "LVA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 3.21,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "LVA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 3.3,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "LVA",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 3.27,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "LTU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2017,
+    "Value": 4.56,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "LTU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2018,
+    "Value": 4.6,
+    "Flag Codes": ""
+  },
+  {
+    "LOCATION": "LTU",
+    "INDICATOR": "MEDICALDOC",
+    "SUBJECT": "TOT",
+    "MEASURE": "1000HAB",
+    "FREQUENCY": "A",
+    "TIME": 2019,
+    "Value": 4.57,
+    "Flag Codes": ""
+  }
+]
